@@ -1,0 +1,3 @@
+El ejecutable se encuentra en la carpeta DIST si se abre desde esa carpeta se ahorra fallos por parte del propio ejecutable.
+
+Por lo demás se adjuntan copias, de todos los archivos para que puedan visualizar dependiendo el programa que desee.
